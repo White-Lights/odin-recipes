@@ -1,1 +1,5 @@
-# odin-recipes
+Hello again, Odin Project. I had just finished this gosh-darn project when my first laptop crapped out so badly that they couldn't even salvage the hard drive. I bought this one fresh but was so discouraged for months that I fell off what I wanted to learn. So, this is the second run. A set of basic recipe webpages is the goal for the design. I like to cook, so I have dozens of recipes to work with. I like to code HTML, so this actually is more fun practice than anything for me (plus, having the proof I once and for all actually completed my project.)
+
+What have I learned? That I have retained most of my basic HTML skills and that I enjoy scripting, weirdly enough. I learned I didn't get Git the first time (ha, get Git) but also that I have learned where I went wrong in learning the Git workflow, which is mostly alien to me as I begin down this path. A top down approach to relearning wasn't bad. It made me feel more confident what I'm doing.
+
+Today is Wednesday when I type this. I hope to finish one recipe page each day confidently, and finish this before Saturday. I'm putting these in my README.md file, knowing that any future employer may stumble through these, because I want to be the most honest, open learner I can be as I work to transition careers. So, anything written beyond this paragraph will be after Saturday. Here we go.
