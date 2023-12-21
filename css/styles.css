@@ -1,0 +1,30 @@
+/* Style for the background */
+
+* {
+    background-color: #baf5f5;
+}
+
+/* Style for the headers (Steps, ingredient) */
+
+h1 {
+    color: #2a3360;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headers {
+    color: #6879d0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Style for the steps font */
+
+ul,
+ol {
+    color: #292929;
+}
+
+/* Style for directory links */
+
+a {
+    color: #6879D0;
+}
